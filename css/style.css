@@ -1,3 +1,14 @@
 body {
-    background-color: #33d125;
+    background-color: #8cdd85;
+}
+.header-child {
+    color: rgb(129, 1, 1, 0.8);
+    font-size: 3em;
+    text-align: center;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
+    border: 10px solid black;
+    border-radius: 30px;
 }
